@@ -25,7 +25,7 @@ SECRET_KEY = 'i8dzcs-t18ra8%(fpu*#%wi27(#xpd@q#mtokoav-=tg*yri0$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['35.189.167.4','smart-brain.top','www.smart-brain.top', 'shuaixin.site', 'www.shuaixin.site']
+ALLOWED_HOSTS = ['35.189.167.4','smart-brain.top', 'shuaixin.site', 'www.shuaixin.site']
 
 
 # Application definition
